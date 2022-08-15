@@ -8,7 +8,8 @@
 
 ![image](https://user-images.githubusercontent.com/76858224/184549628-d2c805a6-4038-40b2-aec6-ec395346b6f1.png)
 
-#Send Mail API
+
+# Send Mail API
 
 ![image](https://user-images.githubusercontent.com/76858224/184549811-a164509a-25d1-4db3-bd59-41a32b5e4822.png)
 
